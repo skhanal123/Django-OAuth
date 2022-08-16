@@ -1,4 +1,4 @@
-# Application Name: Spot
+# Application Name: Django-OAuth
 This application is built to use Google SignIn feature to add extra security to the authentication system
 
 ## Installation
